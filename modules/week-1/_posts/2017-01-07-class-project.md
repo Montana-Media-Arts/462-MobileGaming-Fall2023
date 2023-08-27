@@ -5,7 +5,7 @@ module: 1
 
 # Class Project
 
-This semester, we are creating a gamified augmented reality campus tour for the University of Montana.
+This semester, we are creating a game for public health.
 
 * What do we need to do?
 * What is the subject matter?
@@ -18,5 +18,3 @@ This semester, we are creating a gamified augmented reality campus tour for the 
 * Who will keep track of everything?
 * When will we meet to discuss progress?
 * Does this sound fun?
-
-
