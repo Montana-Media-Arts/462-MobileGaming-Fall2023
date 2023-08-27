@@ -5,8 +5,6 @@ module: 1
 
 # Description of the Course
 
-<a href="" data-lity>Description of the Course Video</a>
-
 Now that you have gone through the syllabus and its technical details and policies, let's talk about how this course will look.
 
 <div class="tab">
